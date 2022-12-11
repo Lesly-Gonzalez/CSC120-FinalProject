@@ -1,3 +1,7 @@
+/**
+ * Represents the clue items
+ * @authors Lesly Gonzalez
+ */
 public class ClueItem {
     String content;
     int number;
@@ -12,5 +16,3 @@ public class ClueItem {
     }
 
 }
-
-//todo这个大概率是不需要了

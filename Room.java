@@ -1,17 +1,37 @@
-import java.util.ArrayList;
-
+/**
+ * Represents a single room within the map
+ * @authors Lesly Gonzalez
+ */
 public class Room {
     String description;
-    ArrayList<Item> itemList;
+    int x;
+    int y;
 
+    /**
+     * Constructor
+     * @param x {1,0,-1}
+     * @param y {1,0,-1}
+     * @param description description of the room 
+     */
     public Room(int x, int y, String description){
         this.description = description;
-        this.itemList = new ArrayList<Item>();
+        this.x = x;
+        this.y = y;
     }
 
+    /**
+     * Outputs room's description
+     */
     public void enter(){
         System.out.println(this.description);
-        //System.out.println(this.itemList);//TODO 这里也没写完
+    }
+
+    /**
+     * Allows the room to change its description after the player's interaction
+     * @param description description of the room
+     */
+    public void change(String description){
+        this.description = description;
     }
 
 }
