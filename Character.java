@@ -173,7 +173,7 @@ public class Character {
      * Outputs possible commands that can be used in the game
      */
     public void help(){
-        System.out.println("Possible commands:\n   walk()\n   take()\n   use()\n   read()\n   open()");
+        System.out.println("Possible commands:\n   walk ____\n   take _____\n   use ____\n   read _____\n   open _____");
     }
 
     

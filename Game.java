@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Represents the container
+ * Represents the Game.
  * @authors Lesly Gonzalez
  */
 public class Game {

@@ -1,5 +1,5 @@
 /**
- * Represents a single room within the map
+ * Represents a single room within the map. 
  * @authors Lesly Gonzalez
  */
 public class Room {

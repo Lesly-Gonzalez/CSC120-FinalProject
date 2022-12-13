@@ -24,22 +24,22 @@ The third digit is the string lenght of the name of the insect that caused the t
 Escape code: 584
 
 
-Quick way to win:
+Quick way to win: Use those commands in the specified order
 _____________________________________________⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-|⠀6.use hammer⠀|11.use     |⠀                |
-|⠀          ⠀ ⠀|⠀ ladder   |⠀10.use key      |
-|⠀7.read paper⠀  12.read    ⠀                |
-|⠀⠀            |   paper   |                 |
+|⠀6.use hammer⠀|11.use     |⠀               |
+|⠀          ⠀ ⠀|⠀ ladder   |⠀10.use key     |
+|⠀7.read paper⠀  12.read    ⠀               |
+|⠀⠀            |   paper   |                |
 |______    ____|____   _____|______   _______|
-|⠀⠀⠀⠀1.take⠀⠀ |⠀⠀⠀⠀⠀⠀⠀⠀⠀ | 2. use⠀lamp    |
-|⠀⠀⠀  ⠀lamp⠀⠀⠀ ⠀⠀Start ⠀⠀ ⠀⠀               |
-|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀ |⠀⠀3. read paper  |
+|⠀⠀⠀⠀1.take⠀⠀ |⠀⠀ ⠀ N⠀⠀⠀  | 2. use⠀lamp    |
+|⠀⠀⠀  ⠀lamp⠀⠀⠀  W⠀Start E⠀ ⠀⠀               |
+|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀ ⠀⠀S⠀ ⠀⠀ |⠀⠀3. read paper |
 |_____   ______|____   _____|______   ________|⠀
 |⠀⠀⠀⠀⠀        |            |                 |
 |⠀⠀⠀4.open⠀⠀⠀ |8.open box ⠀|⠀13. 584⠀⠀⠀⠀⠀  |
-|⠀⠀⠀⠀cabinet⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀   ⠀⠀⠀⠀⠀⠀⠀         |
-|⠀⠀⠀5.take⠀⠀⠀ |9.take key  |⠀⠀⠀⠀⠀⠀⠀         |
-|⠀⠀⠀⠀hammer⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀     |
+|⠀⠀⠀⠀cabinet⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀   ⠀⠀⠀⠀⠀⠀⠀        |
+|⠀⠀⠀5.take⠀⠀⠀ |9.take key  |⠀⠀⠀⠀⠀⠀⠀        |
+|⠀⠀⠀⠀hammer⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀    |
 |______________|____________|________________|
 
 

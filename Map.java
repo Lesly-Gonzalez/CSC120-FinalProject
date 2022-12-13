@@ -1,5 +1,5 @@
 /**
- * Represents the map
+ * Represents the map.
  * @authors Lesly Gonzalez
  */
 public class Map {

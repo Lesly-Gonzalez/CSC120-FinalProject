@@ -1,5 +1,5 @@
 /**
- * Represents a container
+ * Represents a container.
  * @authors Lesly Gonzalez
  */
 
