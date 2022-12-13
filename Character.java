@@ -115,7 +115,7 @@ public class Character {
         if (this.currentItem.contains(item)){
             if (item.equals("hammer") && this.x == -1 && this.y == 1){
                 System.out.println("\n   They're free!!! \n   Oh look! It seems like the butterflies were covering that piece of paper pinned on the wall.");
-                this.map.bottomLeft.change("   The butterflies have been liberated. ");
+                this.map.bottomLeft.change("   The butterflies have been liberated. I see you left the piece of paper pinned on the wall.");
                 this.item1 = true;
                 this.currentItem.remove("hammer");
 
@@ -123,7 +123,7 @@ public class Character {
                 System.out.println("\n   The heat from the light bulb has made a message appear on the paper! What does it say?");
                 this.item2 = true;
                 this.currentItem.remove("lamp");
-                this.map.right.change("\n   It stills smells like lemon, but you already found the clue in this room. \n   I guess there is nothing else useful here. ");
+                this.map.right.change("\n   It stills smells like lemon, but you already found the clue in this room. \n   I hope you read it before you leave.");
            
             }else if(item.equals("key") && this.x == 1 && this.y == 1){
                 System.out.println("\n   Now the closet is open. Here is some help: you have taken the ladder. \n   Is there a place where you think you might need it? ");
@@ -135,7 +135,7 @@ public class Character {
                 System.out.println("\n   You have reached the odd looking portrait hanging on the wall. \n   Now you can see what was strange: the man in the portrait has only one eye. \n   There is a dusty piece of paper on the back of the frame with something written on it.");
                 this.item3 = true;
                 this.currentItem.remove("ladder");
-                this.map.top.change("\n   You already found the clue in this room, remember? # of Platonic Solid ;)  ");
+                this.map.top.change("\n   You already found the clue in this room, remember? unless you forgot to read the piece of paper ");
            
             }else{
                 System.out.println("   Right action but at the wrong place.");
