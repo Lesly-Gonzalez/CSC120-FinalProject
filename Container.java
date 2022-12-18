@@ -1,6 +1,6 @@
 /**
  * Represents a container.
- * @authors Lesly Gonzalez
+ * @author Lesly Gonzalez
  */
 
 public class Container {

@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 /**
  * Represents a character
- * @authors Lesly Gonzalez
+ * @author Lesly Gonzalez
  */
 public class Character {
     ArrayList <String> currentItem;

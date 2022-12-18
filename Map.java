@@ -1,6 +1,6 @@
 /**
  * Represents the map.
- * @authors Lesly Gonzalez
+ * @author Lesly Gonzalez
  */
 public class Map {
     Room topLeft;

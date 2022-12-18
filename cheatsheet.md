@@ -21,7 +21,9 @@ The second digit of the code to escape is the number of bits in a byte: 8
 Clue 3:
 The third digit is the string lenght of the name of the insect that caused the term _bug_ to be used in programming : moth: 4
 
-Escape code: 584
+Knowing the code is not enough. You also need to read each clue first. 
+
+Final Escape code: 584
 
 
 Quick way to win: Use those commands in the specified order
@@ -32,7 +34,7 @@ _____________________________________________⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀�
 |⠀⠀            |   paper   |                |
 |______    ____|____   _____|______   _______|
 |⠀⠀⠀⠀1.take⠀⠀ |⠀⠀ ⠀ N⠀⠀⠀  | 2. use⠀lamp    |
-|⠀⠀⠀  ⠀lamp⠀⠀⠀  W⠀Start E⠀ ⠀⠀               |
+|⠀⠀⠀  ⠀lamp⠀⠀⠀  W⠀walk E⠀  ⠀⠀               |
 |⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀ ⠀⠀S⠀ ⠀⠀ |⠀⠀3. read paper |
 |_____   ______|____   _____|______   ________|⠀
 |⠀⠀⠀⠀⠀        |            |                 |

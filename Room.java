@@ -1,6 +1,6 @@
 /**
  * Represents a single room within the map. 
- * @authors Lesly Gonzalez
+ * @author Lesly Gonzalez
  */
 public class Room {
     String description;

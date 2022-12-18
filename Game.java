@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  * Represents the Game.
- * @authors Lesly Gonzalez
+ * @author Lesly Gonzalez
  */
 public class Game {
     Character character;
